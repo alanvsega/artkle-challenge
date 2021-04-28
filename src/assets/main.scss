@@ -1,0 +1,43 @@
+@import '~bulma/bulma';
+@import url(https://allfont.net/allfont.css?fonts=star-jedi);
+
+body {
+  background: url("http://wallpapercave.com/wp/pEeUsp1.jpg");
+  padding-bottom: 50px;
+}
+
+footer {
+  font-family: 'Days One';
+  color: #FFE807; 
+  text-align: center;
+}
+
+footer a {
+  color: #FFE807;
+}
+
+.title-sw {
+  font-family: 'Days One';
+  color: #FFE807;
+	font-weight: 500;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.card-sw {
+  margin: 25px;
+  height: 350px;
+  width: 350px;
+  text-align: center;
+}
+
+.card-content-sw {
+  height: 300px;
+  width: 300px;
+  justify-content: center;
+}
+
+.clickable {
+  cursor: pointer
+}
